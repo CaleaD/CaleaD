@@ -1,4 +1,4 @@
-- 👋 My name is Dora, welcome to my Github page
+- 👋 My name is Dora, welcome to my Github
 - 📚 I'm a strong-willed programmer looking to enrich my knowledge about industry technologies and software engineering
 - 💻 I’m interested in Big Data and Web Development - additionaly I automate tedious tasks from time to time since I like being efficient with my time (plus - it's good practice and a lot of fun)
 - 🌱 I’m currently learning Vue.js, tackling a personal project and completing some aptitude assessments for my applications
