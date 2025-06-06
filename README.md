@@ -1,10 +1,14 @@
 - 👋 My name is Dora, welcome to my Github
-- 📚 I'm a strong-willed programmer looking to enrich my knowledge about industry technologies and software engineering
-- 💻 I’m interested in Big Data and Web Development
-- 🌱 I’m currently tackling a personal project involving Sentiment Analysis to get characters profiling in fiction books
-- 💼 My leading objective at the moment is to learn as much as I can and be proactive in my career
-- 👥 If you simply want to connect and collaborate I would like to know what you have in mind - it's a medium where ideas can prosper into more and I'm here to do exactly that
+- 📚 I'm a dedicated dev looking to enrich my knowledge about industry technologies and software engineering 
+- 💻 Big Data and Web Development are what I'm mostly interested in
+- 🎓 Finished Bachelor of Science at West University of Timisoara, my dissertation focusing on Sentiment Analysis for character profiling in fiction
+- 💼 I'm proactive in my career and like building web apps that handle complex data, frontend to backend
+- ⚡ I'd say a little curiosity and a dash of humor go a long way when building something great
+- 👥 If you simply want to connect and collaborate I would like to know what you have in mind; I’m always keen to explore new concepts and opportunities
 - 📫 How to reach me: dora.ana.calea@gmail.com
+
+  
+<!--- 🌱 I’m currently tackling... --->
 
 <!---
 CaleaD/CaleaD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
